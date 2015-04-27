@@ -1,0 +1,7 @@
+1) Product Poco
+2) IFileLoader
+3) IProductMapper
+4) IProductRepository
+5) IProductView and ProductPresenter
+6) DI Registration
+7) Tests

@@ -1,0 +1,8 @@
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.pdb
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.csprojResolveAssemblyReference.cache
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.FrmMain.resources
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.Properties.Resources.resources
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.csproj.GenerateResource.Cache
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.exe
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.pdb
