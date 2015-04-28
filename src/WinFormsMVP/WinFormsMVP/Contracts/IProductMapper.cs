@@ -10,7 +10,7 @@
     public interface IProductMapper
     {
         /// <summary>
-        /// Maps the Product POCO specified XML Elements.
+        /// Maps the Product POCO specified XML Attributes.
         /// </summary>
         /// <param name="reader">The reader.</param>
         /// <returns></returns>
