@@ -27,9 +27,18 @@
             this.productView = productView;
             this.productRepository = productRepository;
             this.openFileDialog = openFileDialog;
+            this.productView.Initialize(this); //connecting presenter with the ui
         }
 
         #endregion
+
+        public IProductView View
+        {
+            get
+            {
+                return this.productView;
+            }
+        }
 
         /// <summary>
         /// Gets the products.
@@ -46,8 +55,13 @@
         public void BrowseForFileName()
         {
             this.openFileDialog.Filter = "XML Document (*.xml)|*.xml|All Files (*.*)|*.*";
-            var result = openFileDialog.ShowDialog();
-            if (result == DialogResult.OK) this.productView.SetFileName(this.openFileDialog.FileName);
+            var result = this.openFileDialog.ShowDialog();
+            switch (result)
+            {
+                case DialogResult.OK:
+                    this.productView.SetFileName(this.openFileDialog.FileName);
+                    break;
+            }
         }
     }
 }

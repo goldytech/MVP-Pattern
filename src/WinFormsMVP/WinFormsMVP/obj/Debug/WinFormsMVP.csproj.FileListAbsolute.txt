@@ -6,3 +6,7 @@ D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\W
 D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.csproj.GenerateResource.Cache
 D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.exe
 D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\obj\Debug\WinFormsMVP.pdb
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\bin\Debug\Products.xml
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\bin\Debug\LightInject.dll
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\bin\Debug\LightInject.pdb
+D:\Afzal.Qureshi\My Projects\MVP-Pattern\src\WinFormsMVP\WinFormsMVP\bin\Debug\LightInject.xml
