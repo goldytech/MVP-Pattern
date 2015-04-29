@@ -45,8 +45,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contracts\IFileLoader.cs" />
+    <Compile Include="Contracts\IOpenFileDialog.cs" />
     <Compile Include="Contracts\IProductMapper.cs" />
     <Compile Include="Contracts\IProductRepository.cs" />
+    <Compile Include="Contracts\IProductView.cs" />
     <Compile Include="FileLoader.cs" />
     <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
@@ -56,6 +58,7 @@
     </Compile>
     <Compile Include="Models\Product.cs" />
     <Compile Include="ProductMapper.cs" />
+    <Compile Include="ProductPresenter.cs" />
     <Compile Include="ProductRepository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

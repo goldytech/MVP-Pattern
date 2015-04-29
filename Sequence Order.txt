@@ -3,8 +3,16 @@
 3) IProductMapper
 4) IProductRepository
 5) IProductView and ProductPresenter
-6) DI Registration
-7) Tests
+6) IProductView Implementation
+7) DI Registration
+8) Tests
 
+82b3498
 
-  429d6eb..82b3498 82b3498
+7c19a42
+
+9f99584
+
+d826ecf
+
+52768e2
