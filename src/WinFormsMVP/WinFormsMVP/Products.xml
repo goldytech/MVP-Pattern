@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+  <product id="1" name="iPhone" unitPrice="500.55" />
+  <product id="2" name="iPad" unitPrice="450.10" />
+  <product id="3" name="Mac book pro" unitPrice="1378.95" />
+</products>
